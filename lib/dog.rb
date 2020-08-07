@@ -24,4 +24,8 @@ class Dog
     @@all.push(self)
   end
 
+  def clear_all
+    
+  end
+
 end
